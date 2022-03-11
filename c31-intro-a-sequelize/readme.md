@@ -159,6 +159,6 @@ const controller= {
         })
         .then(users => res.send(users))
     }
-}
+};
 
 ```
